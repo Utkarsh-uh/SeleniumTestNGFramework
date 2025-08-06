@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumSuite">
+<listeners>
+    <listener class-name="listeners.ListenersTestNG" />
+  </listeners>
+
+  <test name="LoginTests">
+    <classes>
+      <class name="testcases.LoginTest"/>
+      <class name="testcases.DashboardTest"></class>
+    </classes>
+  </test>
+</suite>
+
+
