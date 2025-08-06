@@ -6,7 +6,7 @@ This project demonstrates web automation testing using Selenium WebDriver, TestN
 ^ Java
 ^ POM
 # Project Structure
-SeleniumFramework/
+# SeleniumFramework/
 │
 ├── src/
 │   ├── main/
