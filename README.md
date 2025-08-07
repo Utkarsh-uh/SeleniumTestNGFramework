@@ -6,6 +6,9 @@ This project demonstrates web automation testing using Selenium WebDriver, TestN
 ^ Java
 ^ POM
 # Project Structure
+<details>
+<summary>📁 Project Structure</summary>
+
 # SeleniumFramework/
 │
 ├── src/
@@ -52,4 +55,4 @@ This project demonstrates web automation testing using Selenium WebDriver, TestN
 ├── pom.xml
 ├── testng.xml
 └── .gitignore
-
+</details>
