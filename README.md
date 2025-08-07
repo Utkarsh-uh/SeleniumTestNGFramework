@@ -1,11 +1,14 @@
 # Selenium Web Automation Project
 This project demonstrates web automation testing using Selenium WebDriver, TestNG, and Page Object Model.
-## Tech Stack
-^ Selenium WebDriver
-^ TestNG
-^ Java
-^ POM
-# Project Structure
+##  Tech Stack
+
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- POM
+- Maven
+
+## Project Structure
 
 ```
 seleniumframework/
