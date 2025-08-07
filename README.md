@@ -8,7 +8,7 @@ This project demonstrates web automation testing using Selenium WebDriver, TestN
 # Project Structure
 <details>
 <summary>📁 Project Structure</summary>
-
+```
 # SeleniumFramework/
 │
 ├── src/
