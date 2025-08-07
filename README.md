@@ -77,6 +77,12 @@ seleniumframework/
 - screenshots/ – Screenshots of failed tests
 - logs/ – Log files (optional)
 
+## Author
+
+**Utkarsh Haste**  
+ QA Engineer | GitHub: [@Utkarsh-uh](https://github.com/Utkarsh-uh)
+
+
 ## Feedback/Contribute
 Feel free to fork this repo, raise issues, or contribute improvements!
 
