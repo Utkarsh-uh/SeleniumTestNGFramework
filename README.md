@@ -53,12 +53,34 @@ seleniumframework/
    ```bash
    git clone https://github.com/your-username/seleniumframework.git
    ```
-3. Navigate to the project directory:
+3. **Navigate to the project directory**:
+   ```bash
    cd seleniumframework
-4. Install dependencies using Maven:
+   ```
+5. **Install dependencies using Maven**:
+   ```bash
    mvn clean install
-5. Run the tests:
+   ```
+7. **Run the tests**:
+   ```bash
    mvn clean test
+   ```
+## Features
+- Page Object Model (POM)
+- Custom Listeners with Retry logic
+- Excel-driven test data
+- Screenshots on failure
+- HTML report via ExtentReports
+
+## Reports AND Logs
+- reports/ExtentReport.html – Execution report
+- screenshots/ – Screenshots of failed tests
+- logs/ – Log files (optional)
+
+## Feedback/Contribute
+Feel free to fork this repo, raise issues, or contribute improvements!
+
+   
       
    
 
