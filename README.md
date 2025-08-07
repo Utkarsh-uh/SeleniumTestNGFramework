@@ -48,5 +48,17 @@ seleniumframework/
 ├── testng.xml
 └── .gitignore
 ```
+## How To Run Tests
+1. Clone the repository:
+   git clone https://github.com/your-username/seleniumframework.git
+2. Navigate to the project directory:
+   cd seleniumframework
+3. Install dependencies using Maven:
+   mvn clean install
+4. Run the tests:
+   mvn clean test
+      
+   
+
 
 
